@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "helpmeow",
+  "private_key_id": "d1b6a0de601c03450b36fd9eaded9fdbf2f5089b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoG9rmaZgpmjSE\nZxhkEKmv8e5DW0fDTNUcPz3erquC1z8+5zqPbarSWWF6MVFUQzBz1GjeF2d561xz\njRqFgijWa6g7OOxj9Vn+VvD3TKeE2Xp4uXb4AAWhkGTk10Z9jAN19UbzGeqpW2rp\nxMC15KLbViu2XpWIUHrOaoVhPP+Y+HxNAZg5Y0wSNt/hGM10pYpKTPOu8U4xAngj\nZcBTcC93xuZ6oSeHe/rGusfH6VrFJNRy7ht1MJtfQBxQkxMoEK8NXnyIWaJyzaMC\nSEPki5rr7vGvrtp+7zhuX/n0i07+kluDZwPeNmLxa2PU1B1skqoCxkHUOpDxlqsH\nK0LOol1DAgMBAAECggEABFCoDxvM/k8Mx2Im9pGxl5ME3N+G8kMSnjPjJcgjVuRw\nbH5CEFRuF2dDC4BZdoYExF8JohDhgU1tTE9Xy9LYXfNLtNl0UMyHc0dqscrMlY26\nM/HEHHGKz+e+RJUK63715DmtUBntUBOQM21ElRFWOwv1a0iE6aQqwtC/YCjtj4nR\nTb+UE4lV4wA0hgkAVw/Ri7l05VZDPvl4nuNKdmfKhV+MPyuOR+wjC0JqLhK7M10y\nAhccZlmT65yKFd1yqVvFd8CuexK5aArVvgRSlTHfMvCZNUiiWg+oVLHtkE+VQyct\nfGxA7Pyz8AlprSCV/XlVkU/c+lcLCk0m5c3uzJueYQKBgQDb4rs2BKUtswaQGCWE\ndt1/LeZrIJgcUwcQ/aTd3gW/FYsgLSCN0qegHZ+EFNol36nr0z2ApaJggibA2W7A\n86VhXhe+kl/0m0TDjj/bcr4nrWAPBrELGnSAQdtEtOupyZMId6efbolo9xfRcSlL\nqWr6rjd9jvTqQh6+JLmDSS+ThQKBgQDDuB/TBXQcoTiAEuoQPFHtWnBQVOsy1CIm\n6CasXNv+PaqEjaaX9al+zVcJurLkszwAePemFiLz76D6hCGaawlX1bRPR22IffLb\nQ/fQTfRH1Y0atsd8mjba89WYKaul33By5TOFHkPu6IkmH9Kn2mOe1JOgSpyw1Dud\nb75a1NKUJwKBgFve0YVyT2lWoWlXDWXZHBZlIR6lUaiT8CHjOB0TBKef4q8g67cV\nyr+VYO6Yn8SvPJmxesLjcYKNHo/4yNOJeRHDdHxFQB49OW/TYU7ZFCYTxEzC6PnQ\npdhoq6p7RPN9qxcgl0J/tp3Kj4MMmspoELCIVdr5/c5aremYAoKd82jZAoGAWNSL\n1SoHfisKSs7K312RTaobicpRCbvQWFpLmzV2P9lbOFhWQWglasDl/St4oGZdGFXP\nCNnJOXAMX0dzPPPRxMTg1o6zvxxzCmO56RhIhAX/yh0lQ3924D+FNU/McTeNgQhY\nLtYCvT9baCtPYBG131PaQQk8PuHEwPsDqZQok0cCgYEAu9V86HnxH5jzdrXkXNov\nbRLb0sTbyP42BLVH6IPkBZAHA8IFMxHCU9hw14xIWAssIyR/I7KxbOYMfI9kQ4Rg\ndF8c+7ZIhGtVhBjzJMMjvnCn9H9tM/Jv503qOTDxERQakialYju62Hi2NR1WsW4y\nNolY+s/7aT+5sy3duhE4xwU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "helpmeow-sa-firestore@helpmeow.iam.gserviceaccount.com",
+  "client_id": "117625565549608470533",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/helpmeow-sa-firestore%40helpmeow.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
